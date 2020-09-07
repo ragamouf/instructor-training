@@ -7,8 +7,11 @@ questions:
 - "What is cognitive load and how does it affect learning?"
 - "How can we design instruction to work with, rather than against, memory constraints?"
 objectives:
-- "Identify when cognitive load is likely to limit learning."
+- "Remember the quantitative limit of human memory." 
+- "Apply concept mapping as a strategy to identify concepts and relationships required in a lesson."
 - "Use a concept map to plan a formative assessment strategy."
+- "Name the three components of cognitive load theory and which should be emphasized or diminished." 
+- "Identify when cognitive load is likely to limit learning."
 keypoints:
 - "Most adults can store only a few items in short-term memory for a few seconds before they lose them again."  
 - "Things seen together are remembered (or mis-remembered) in chunks."  
@@ -195,6 +198,9 @@ knowledge.
 > missing in your partner's map that you would include? Are there more than a handful
 > of concepts in your map? If so, how would you re-divide those concepts to avoid
 > overwhelming your learners' short-term memory?
+>
+> Note for online trainings: please use a bold marker and write large so that your concept map 
+> can be shared on Zoom if you are prompted to do so.
 >
 > Take 10 minutes to draw the concept maps and share with your neighbor.
 > Write "*done*" in the Etherpad chat once you have finished.

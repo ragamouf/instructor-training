@@ -62,7 +62,7 @@ Their aligned missions are accomplished by running accessible, inclusive trainin
 
 Similarities between Software, Data and Library Carpentry workshops include:
 *   a focus on technical skills.
-*   an two-day format taught by volunteer instructors.
+*   a two-day format taught by volunteer instructors.
 *   a focus on filling gaps in current training for learners.
 
 The major differences between Software, Data and Library Carpentry workshops
@@ -91,7 +91,7 @@ Library Carpentry workshops:
 
 In a visual representation, these similarities and differences look like this:
 
-![Carpentries Similarities and Differences](../fig/carpentries-venn-diagram_20190522.svg)
+![Carpentries Similarities and Differences](../fig/carpentries-venn-diagram_20200904.svg)
 
 
 ## What is a Carpentries Workshop? The Rules.
@@ -105,8 +105,8 @@ You may only call a workshop a Software Carpentry, Data Carpentry, or Library Ca
 
 *   it covers the core topics (see below),
 *   at least one of the instructors is a certified Carpentries Instructor,
-*   you run our standardized pre- and post-workshop assessments and ensure everyone participates, and
-*   you send us summary information about attendees (at a minimum, the number of people who attended).
+*   you run our standardized pre- and post-workshop assessments and ensure everyone participates.
+
 
 ### Materials
 
@@ -159,9 +159,7 @@ will embody the Carpentries ethos and practices.
 
 > ## Local Support
 >
-> There is a great list
->
-> here in the handbook [Helper Checklist and Suggestions](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist).
+> There is a great list here in the handbook [Helper Checklist and Suggestions](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist).
 {: .callout}
 
 ## How to Run a Carpentries Workshop
@@ -207,8 +205,8 @@ or the the following Lesson Program specific references:
 * [Library Carpentry](https://librarycarpentry.org/workshops/)
 * [Software Carpentry](https://software-carpentry.org/workshops/request/) workshop pages.
 
-Policies related to instructor training and workshops The Carpentries can be found in [the policies repository](https://github.com/carpentries/policies). Please
-be sure to read through the [instructor no-show policy](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md) before signing up for your first workshop.
+Policies related to instructor training and workshops The Carpentries can be found in [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/policies/index.html). Please
+be sure to read through the [instructor no-show policy](https://docs.carpentries.org/topic_folders/policies/instructor-no-show-policy.html#instructor-no-show-policy) before signing up for your first workshop.
 
 ### Setting Up
 

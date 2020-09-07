@@ -19,7 +19,7 @@ title: "Etherpad Template"
 <p>All content is publicly available under the Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/</p>
 <br/> ____________________________________________________________________________________________________________
 <br/>
-<b>Sign in: Name, Institution, Email, Twitter (optional)</b><br/>
+<b>Sign in: Name, Pronouns, Institution, Email (optional), Twitter (optional)</b><br/>
 Please sign in so we can record your attendance.<br/>
 <ul>
   <li>&nbsp;</li>
@@ -43,7 +43,7 @@ Do not use the filter markdownify when specifying an <li> because otherwise fire
 {% endcomment %}
 
 {% for episode in site.episodes %}
-<h1>{{episode.title}} <br/><a href="{{site.url}}{{ relative_root_path }}{{episode.url}}">{{site.url}}{{ relative_root_path }}{{episode.url}}</a></h1>
+<h1>{{episode.title}} <br/><a href="{{episode.url | absolute_url}}">{{episode.url | absolute_url }}</a></h1>
 
 <br/>
 <blockquote>

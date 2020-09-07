@@ -124,7 +124,7 @@ community [contributed guide](https://github.com/dmgt/swc_github_flow/blob/maste
 
 The next step is to take part in an hour-long community discussion session
 led by an experienced instructor.
-These sessions gives you a chance to ask questions about the material
+These sessions give you a chance to ask questions about the material
 you plan on teaching
 and to clarify anything that may be unclear about our operations in general.
 
@@ -206,14 +206,16 @@ please let us know in advance so that we can attempt to find someone to moderate
 We may not be able to accommodate all languages.
 
 For your teaching demonstration, you will prepare to teach a lesson from one of the
-Carpentries lesson programs. You will be asked to teach a short segment from your chosen lesson from this 
+Carpentries lesson programs. You can refer to the lists of [Software Carpentry lessons](https://software-carpentry.org/lessons/), [Data Carpentry lessons](http://www.datacarpentry.org/lessons/), and [Library Carpentry lessons](https://librarycarpentry.org/lessons/) on the websites.
+A lesson corresponds to a single line in the lesson table and a single repository in GitHub. 
+(An example of a lesson: [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)). 
+Some lessons have supplementary modules.
+You do not need to be prepared to teach the supplementary modules for your teaching demonstration.  
+
+You will be asked to teach a short segment from your chosen lesson from this 
 [list of suggested episodes](https://carpentries.github.io/instructor-training/demo_lessons/index.html). 
 The host of the session will pick a segment of the lesson for you to teach on the day of the 
-demonstration, so you must be prepared to teach any part of your chosen lesson.
-
-You can refer to the lists of [Software Carpentry lessons](https://software-carpentry.org/lessons/), [Data Carpentry lessons](http://www.datacarpentry.org/lessons/), and [Library Carpentry lessons](https://librarycarpentry.org/lessons/) on the websites.
-A lesson corresponds to a single line in the lesson table and a single repository in GitHub. Some lessons have supplementary modules.
-You do not need to be prepared to teach the supplementary modules for your teaching demonstration.  
+demonstration (An example for a segment could be: [Data Structures](http://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html)), so you must be prepared to teach any part of your chosen lesson.
 
 _Please note that you only need to demonstrate your ability to teach one lesson; once certified you can teach any lesson if you have the relevant expertise. 
 You can indicate the lessons you are comfortable teaching when you update 
